@@ -1,0 +1,6 @@
+[submodule "BasicShooter"]
+	path = BasicShooter
+	url = git@github.com:Makkerel/Basic-Shooter-Game.git
+[submodule "BasicTutorial"]
+	path = BasicTutorial
+	url = git@github.com:Makkerel/Tutorial1.git
