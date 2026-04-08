@@ -4,3 +4,6 @@
 [submodule "BasicTutorial"]
 	path = BasicTutorial
 	url = git@github.com:Makkerel/Tutorial1.git
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = git@github.com:Makkerel/TicTacToe.git
